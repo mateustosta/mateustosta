@@ -38,5 +38,6 @@
             
 [<img src = "https://img.shields.io/badge/Github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/mateustosta)
 [<img src = "https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:mateustosta@outlook.com.br)
+[<img src = "https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:metzkerrr@gmail.com)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mateusmetzker/)
 
