@@ -26,7 +26,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateustosta&show_icons=true&include_all_commits=true&count_private=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateustosta&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
 <details>
