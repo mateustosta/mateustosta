@@ -24,15 +24,15 @@
   <p>
 </div> 
 
-### 📈 Github Statistics
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustosta&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateustosta&show_icons=true&include_all_commits=true&count_private=true&theme=default" /></td>
-    </tr>   
-  </table>
-</center>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateustosta&show_icons=true&include_all_commits=true&count_private=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateutosta&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
 
 <p align="center">
 <i>Let's connect and chat! Find me on the web...</i>         
