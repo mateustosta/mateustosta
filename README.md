@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!, I'm Mateus <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> </h1>
+<h1 align="center">Hey there! I'm Mateus <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> </h1>
 
 <div>
 <img width = "35%" align="right" alt="Coder" height="250px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
@@ -31,7 +31,7 @@
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateutosta&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustosta&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
 <p align="center">
