@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/linux%20-%23F7DF1E.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/NumPy%20-%2314354C.svg?&style=for-the-badge&logo=numpy"/>
     <img src="https://img.shields.io/badge/jupyter-gray.svg?&style=for-the-badge&logo=jupyter&logoColor=orange"/>
   <p>
