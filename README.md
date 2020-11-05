@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
   
   - 🎓 &nbsp; I'm a Computer Science Student at the [Federal University of Paraíba](https://www.ufpb.br)
-  - 💼 &nbsp; I'm currently work as a Researcher Intern at [Petroleum Engineering Modelling Laboratory](http://lamep.ci.ufpb.br/).
+  - 💼 &nbsp; I'm currently work as a Researcher Intern at [Petroleum Engineering Modelling Laboratory](http://lamep.ci.ufpb.br/)
   - 🌱 &nbsp; Future Goals: Learn more about Data Science 
 </div> 
 </div>
