@@ -15,7 +15,6 @@
   <h3> 💻 Languages and Tools </h3>
   <p>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/NumPy%20-%2314354C.svg?&style=for-the-badge&logo=numpy"/>
@@ -36,7 +35,6 @@
 <i>Let's connect and chat! Find me on the web...</i>         
 
 <p align="center">
-<a href="https://github.com/mateustosta" alt="Github"><img src="https://img.shields.io/badge/Github-black.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:mateustosta@outlook.com.br" alt="Outlook"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="mailto:metzkerrr@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/mateusmetzker/" alt="Instagram"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
