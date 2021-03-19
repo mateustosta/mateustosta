@@ -5,4 +5,5 @@ I am currently pursuing a degree in computer science with the  [Federal Universi
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-mateustosta@cc.ci.ufpb.br-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mateustosta@cc.ci.ufpb.br)](mailto:mateustosta@cc.ci.ufpb.br)
-[![Linkedin Badge](https://img.shields.io/badge/-mateusmetzker-0077B5??style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusmetzker)](https://www.linkedin.com/in/mateusmetzker)
+[![Linkedin Badge](https://img.shields.io/badge/mateusmetzker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusmetzker)](https://www.linkedin.com/in/mateusmetzker)
+[![Twitter Badge](https://img.shields.io/badge/metzkertosta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/metzkertosta)
