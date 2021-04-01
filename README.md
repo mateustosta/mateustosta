@@ -4,7 +4,7 @@
 > * Computer Science student at [Federal University of Paraíba (UFPB)](https://www.ufpb.br). 
 > * Scientific initiation in the field of software development and oil reservoir simulation at [Petroleum Engineering Modelling Laboratory (LaMEP/UFPB)](http://lamep.ci.ufpb.br/). 
 
-## Research and Interests
+## Projects and Interests
 > * My current research lies at the intersection of Petroleum Engineering and Computer Science, this research aims to develop a tool for post-processing of oil reservoirs’ 3D models. 
 > * My interests include back-end development, software development, and data science.
 
