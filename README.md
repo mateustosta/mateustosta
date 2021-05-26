@@ -6,7 +6,7 @@
 
 ## Projects and Interests
 > * My current research lies at the intersection of Petroleum Engineering and Computer Science, this research aims to develop a tool for post-processing of oil reservoirs’ 3D models. 
-> * My interests include back-end development, software development, and data science.
+> * My interests include back-end development, software development, and cybersecurity.
 
 ## Contact
 [![Outlook Badge](https://img.shields.io/badge/mateustosta@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:mateustosta@outlook.com.br)](mailto:mateustosta@outlook.com.br)
